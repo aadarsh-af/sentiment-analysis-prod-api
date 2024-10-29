@@ -1,0 +1,11 @@
+env/
+__pycache__/
+run.sh
+.gitignore
+main.py
+.dockerignore
+.git
+.github
+tests
+README.md
+docker-compose.yml
