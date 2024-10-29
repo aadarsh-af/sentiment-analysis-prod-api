@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-This project utilizes Python FastAPI and transformers to return sentiment to the input sentence provided by a user. I have used docker to deploy this API. The docker container uses python-3.11-slim versio of Python. The API will deploy `distilbert/distilbert-base-uncased-finetuned-sst-2-english` model from HuggingFace. This model is used to reduce latency in the application with great accuracy of results. This API is secured with
+This project utilizes Python FastAPI and transformers to return sentiment to the input sentence provided by a user. I have used docker to deploy this API. The docker container uses python-3.11-slim version of Python. The API will deploy `distilbert/distilbert-base-uncased-finetuned-sst-2-english` model from HuggingFace. This model is used to reduce latency in the application with great accuracy of results. This API is secured with
 
 ## Ubuntu Installation Steps
 
